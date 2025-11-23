@@ -1,0 +1,541 @@
+AgroLink
+Innovación y Emprendimiento 3
+Unidad 1
+Inacap sede Osorno
+Nombre y Rut de los Integrantes:
+• Nicolas Fernandez
+• Diego Sandoval
+• Vittorio Soto
+• Benjamín Delgado
+• Ignacio Agüero
+• Arman Almonacid
+Descripción Sector de 
+Actividad Investigado
+Sector agrícola y gastronómico local, enfocado en pequeños agricultores de la Región 
+de Los Lagos/Los Rios y restaurantes que demandan productos frescos. Actualmente 
+existe dependencia de intermediarios, pérdidas de cosecha y precios inestables para los 
+restaurantes. La investigación busca digitalizar la conexión entre productores y 
+compradores para mejorar precios, asegurar abastecimiento y reducir desperdicios.
+¿Cómo se vinculan al desafío 
+sostenible? ¿En donde se 
+encuentra el problema que inicia 
+la investigación? 
+El problema surge en la cadena de suministro agrícola, donde la falta de conexión directa entre 
+productores y restaurantes genera pérdidas de productos, precios injustos y baja rentabilidad. El 
+desafío sostenible está en reducir el desperdicio de alimentos, promover el comercio justo y 
+digitalizar procesos para mejorar eficiencia y estabilidad económica en la región.
+¿Qué beneficio económico, 
+competitivo y/o de mercado 
+puede obtener el sector al 
+solucionar su problema 
+sostenible? Describe brevemente 
+La solución permite reducir desperdicios, optimizar compras y tiempos de entrega, mejorando la 
+rentabilidad. Además, fortalece la relación directa entre agricultores y restaurantes, generando 
+precios más justos y mayor competitividad en el mercado.
+Nombre de la empresa:
+Dirección:
+Nombre del contacto:
+T eléfono:
+Correo:
+Sitio web o RR.SS.:
+AgroLink
+Rio Bueno
+Nicolas Fernandez
++56956115492
+Nicolas.fdz2001@gmail.com
+proximamente
+PRESENTACIÓN CONTEXTO DE INVESTIGACIÓN INICIAL
+
+EVIDENCIAS
+Objetivos Específicos Entrevistado(a) o Lugar 
+de Investigación
+Evidencia gráfica o certificada de 
+su realización
+Entrevista  a 
+Usuario
+1. Identificar dolores, motivaciones y expectativas 
+de agricultores y restaurantes respecto a la 
+venta y compra de productos.
+Agricultores locales de Osorno y 
+Río Bueno. Dueños de 
+restaurantes pequeños.
+Entrevista a 
+Especialista
+1. Validar problemática y viabilidad de la solución. 
+Obtener perspectiva sobre logística, precios y 
+digitalización
+Representantes de INDAP / 
+asociaciones agrícolas. Profesores 
+o expertos en agronegocios.
+Observación
+1. Analizar el proceso actual de compra/venta, 
+identificar puntos de fricción y oportunidades de 
+mejora.
+Visitas a locales de venta y 
+restaurantes (ej. feria agrícola, 
+“Donde Mónica”).
+
+EVIDENCIAS AGRÍCOLAS
+• Los agricultores valoran principalmente conectarse con restaurantes serios y recibir pagos rápidos y 
+seguros.
+• Sus principales preocupaciones son la confianza en los compradores y los costos de comisiones.
+• Existe disposición a usar la plataforma, pero debe ser simple y accesible para superar la brecha tecnológica.
+ENTREVISTA A USUARIO
+
+EVIDENCIAS AGRÍCOLAS
+PREGUNTAS MAS RELEVANTES
+
+EVIDENCIAS ESPECIALISTA
+• Obstáculos actuales: destacan el impacto del cambio climático, la volatilidad de precios y los problemas 
+logísticos, lo que indica múltiples frentes de vulnerabilidad en la cadena agrícola.
+• Barreras tecnológicas: predominan la falta de capacitación digital, el costo de software/equipos y la 
+desconfianza en las herramientas digitales, lo que subraya la necesidad de una plataforma simple, confiable y 
+accesible.
+• Impacto positivo esperado: los especialistas señalan como más relevante profesionalizar la gestión y planificación y 
+promover el consumo local y sustentable, lo que conecta directamente con la propuesta del marketplace.
+ENTREVISTA A ESPECIALISTA
+
+EVIDENCIAS ESPECIALISTA
+PREGUNTAS MAS RELEVANTES
+
+EVIDENCIAS RESTAURANTES
+• Los restaurantes buscan principalmente ahorrar tiempo en la gestión de pedidos y asegurar calidad 
+consistente en los productos.
+• Para ellos, lo más crítico es contar con entregas puntuales y fiables, junto con la garantía de calidad de 
+los productores.
+• También valoran precios competitivos, pero siempre supeditados a la confianza en el servicio y la facilidad 
+de uso de la plataforma.
+ENTREVISTA A USUARIO
+
+EVIDENCIAS RESTAURANTES
+PREGUNTAS MAS RELEVANTES
+
+EVIDENCIAS - AEIOU
+Actividades
+• Restaurantes compran insumos a medida que se acaban (no planifican grandes compras).
+• La compra se realiza en fruterías, mercados o distribuidores únicos.
+• Se busca siempre la mejor relación calidad-precio comparando locales.
+• En algunos casos, usan bicicleta o transporte simple para traer productos.
+• La atención a clientes suele ser rápida, cercana y basada en recomendaciones.
+• Cocinas trabajan de forma constante y manual, con pedidos en el momento.
+Entornos
+• Locales pequeños, sencillos y familiares, con decoración tradicional.
+• Ubicados en zonas céntricas o cercanas a talleres/empresas, lo que atrae a trabajadores.
+• En hoteles, el abastecimiento es más estructurado y con inventarios regulares.
+• Predominan espacios informales pero acogedores, pensados para clientela habitual.
+OBSERVACIÓN
+EVIDENCIAS - AEIOU
+Interacciones
+• Dueños o cocineros hacen listas y delegan compras a trabajadores.
+• Relaciones con proveedores son informales (llamadas, visitas directas).
+• Clientes interactúan de manera cordial y cercana con garzones, confiando en recomendaciones.
+• Existe costumbre de colaborar con encuestas de estudiantes o externos, lo que muestra apertura.
+Objetos
+• Uso frecuente de bicicletas de carga y celulares para coordinar pedidos.
+• Mobiliario y utensilios básicos (mesas sencillas, menús impresos, servilletas de papel).
+• En cocinas: inventarios manuales, llamadas telefónicas y herramientas tradicionales.
+• Elementos tecnológicos son limitados, salvo celulares para comunicación.
+OBSERVACIÓN
+EVIDENCIAS - AEIOU
+Usuarios
+• Dueños y cocineros son quienes organizan compras y controlan insumos.
+• Trabajadores realizan las compras físicas y trasladan los productos.
+• Clientes habituales: familias, trabajadores locales y grupos de amigos.
+• En hoteles: el rol de cocineras está más definido en la gestión de insumos.
+OBSERVACIÓN
+BUYER  PERSONA: AGRICULTOR
+
+BUYER  PERSONA: RESTAURANTE
+
+MATRIZ DE VACIADO DE HALLAZGOS
+AGRUPACIÓN DE RESULTADOS EN TEMÁTICAS
+Llene con las citas o resultados clave del proceso de investigación
+TEMÁTICA 1: Producción y Abastecimiento TEMÁTICA 2: Logística y distribución
+1. Agricultores producen principalmente hortalizas y huevos, pero 
+venden solo 50–70% de su cosecha.
+2. Restaurantes compran en ferias y fruterías locales, sin 
+proveedores fijos.
+3. Especialistas mencionan impacto climático y volatilidad de 
+precios como barreras de producción.
+4. Observación muestra que las compras se hacen sin 
+planificación, cuando el stock ya está bajo.
+1. Agricultores identifican como mayor dolor el transporte y 
+entrega de productos.
+2. Restaurantes reportan entregas no puntuales o incompletas.
+3. Especialistas consideran que la logística es uno de los 
+principales obstáculos.
+4. En terreno de observa que los pedidos se transportan en 
+bicicleta de forma improvisada por personal del mismo 
+restaurante.
+TEMÁTICA 3: Comercialización y mercado TEMÁTICA 4: T ecnología y confianza
+1. Agricultores dicen que es difícil encontrar compradores 
+constantes, perdiendo parte de la cosecha.
+2. Restaurantes sufren precios variables y poca transparencia.
+3. Especialistas recomiendan profesionalizar la gestión y mejorar la 
+planificación de oferta y demanda.
+1. Agricultores temen que los restaurantes no cumplan pedidos.
+2. Restaurantes piden verificación de calidad y plataforma fácil de 
+usar.
+3. Especialistas señalan desconfianza en herramientas digitales 
+como la mayor barrera, pero hay apertura (3.75/5) a adoptarlas 
+si hay capacitación y soporte.
+4. Observación confirma uso mínimo de tecnología, solo celular 
+para llamadas.
+CONTEXTO ESTRATÉGICO
+PESTAL
+Descripción:
+Político
+El sector agrícola cuenta con apoyo de programas estatales (INDAP , Sercotec, CORFO) para fomento productivo y 
+digitalización. Sin embargo, cambios en políticas de subsidios o normativas de transporte pueden afectar costos.
+Económico
+Existe inflación moderada y alza de precios de insumos, lo que impacta los márgenes de agricultores y restaurantes. 
+La demanda por productos frescos sigue siendo estable. La plataforma puede generar ahorro al eliminar 
+intermediarios.
+Legal
+Se debe cumplir normativa sanitaria (resoluciones de la Seremi de Salud), etiquetado de alimentos y normativa de 
+comercio electrónico. Riesgo bajo si se cumplen estándares.
+T ecnológico
+Existe creciente adopción de soluciones digitales, pero aún hay brecha tecnológica en zonas rurales. Es necesario 
+capacitar a agricultores y restaurantes en el uso de la plataforma.
+Ambiental
+Factores climáticos afectan la producción (heladas, sequías). Fomentar el consumo local reduce huella de carbono y 
+desperdicio de alimentos. 
+Social
+Alta aceptación de productos frescos y de origen local. T endencia creciente hacia consumo consciente y comercio 
+justo, lo que favorece la adopción de la solución.
+MEDIO
+¿NIVEL DE 
+RIESGO DEL 
+ENTORNO?
+CATEGORIZACIÓN DE HALLAZGOS
+Categorización de Insights
+Desconexión entre oferta y 
+demanda
+Falta de compradores 
+constantes
+Problemas logísticos y de 
+entrega
+Variabilidad de precios y 
+falta de transparencia
+Pérdida de productos y 
+mermas
+DESCRIPCIÓN:
+Los agricultores no logran vender 
+toda su producción (menos del 
+70% en la mayoría de los casos) y 
+los restaurantes compran en varias 
+fuentes sin consolidar. Esto genera 
+desperdicio y sobrecostos.
+La venta depende de 
+contactos personales o 
+compradores ocasionales, lo 
+que genera incertidumbre en 
+los ingresos y dificulta 
+planificar siembras.
+El traslado se hace de forma 
+improvisada, muchas veces 
+por los mismos restaurantes, 
+lo que provoca entregas 
+tardías o incompletas y afecta 
+la operación diaria.
+Tanto agricultores como 
+restaurantes enfrentan 
+precios inestables. Los 
+primeros reciben pagos bajos 
+e injustos, mientras que los 
+restaurantes deben lidiar con 
+constantes variaciones que 
+afectan su planificación 
+financiera.
+Parte de la producción se 
+pierde por falta de 
+compradores a tiempo o por 
+falta de coordinación en las 
+compras.
+Reflexiones, 
+antecedentes, citas 
+clave:
+• “Pierdo parte de la cosecha 
+por no venderla a tiempo”
+•  “Compro en distintas fruterías 
+porque no hay proveedor fijo”
+• La producción se desperdicia 
+mientras los restaurantes 
+siguen con dificultades para 
+encontrar productos locales 
+confiables.
+• La ausencia de un canal 
+centralizado genera 
+ineficiencias y pérdidas 
+económicas en ambos lados.
+ 
+• “Es difícil encontrar 
+compradores constantes.”
+• Los agricultores deben 
+vender en mercados 
+informales y a precios 
+bajos para evitar perder la 
+cosecha.
+• La incertidumbre de no 
+saber si venderán genera 
+estrés y limita la 
+planificación.
+• “El transporte y la entrega 
+de los productos son un 
+problema.”
+• Restaurantes reportan que 
+deben encargarse ellos 
+mismos del traslado, 
+perdiendo tiempo de 
+operación.
+• La falta de coordinación 
+logística impacta 
+directamente en la 
+frescura de los productos 
+y la continuidad del 
+servicio.
+• “Los precios son muy 
+variables y poco 
+transparentes.”
+• “Los precios que me 
+pagan son muy bajos.”
+• La inestabilidad de costos 
+impide proyectar 
+márgenes de ganancia y 
+planificar a largo plazo.
+• “Pierdo parte de la 
+cosecha por no venderla a 
+tiempo.”
+• Se atribuye la perdida de 
+producción por falta de 
+clientes
+CATEGORIZACIÓN DE HALLAZGOS
+Categorización de Insights
+Baja digitalización y exceso de 
+procesos manuales
+Alto interés por 
+soluciones digitales
+Calidad y origen local 
+como diferenciador
+Barreras para adoptar 
+tecnología
+DESCRIPCIÓN:
+La mayoría de los agricultores y 
+restaurantes usan métodos 
+manuales (llamadas, visitas 
+presenciales, libretas), lo que 
+consume tiempo y aumenta el 
+riesgo de errores y pérdidas de 
+información.
+Agricultores y restaurantes 
+valoran una plataforma que 
+los conecte de forma directa 
+y segura, para ahorrar 
+tiempo, estabilizar precios y 
+planificar mejor.
+Los restaurantes valoran 
+fuertemente la calidad 
+consistente y el origen local 
+como parte de su propuesta 
+de valor y marketing.
+Existe desconfianza o temor 
+de no entender la plataforma, 
+junto con preocupación por 
+los costos y el cumplimiento 
+de pedidos.
+Reflexiones, 
+antecedentes, citas 
+clave:
+• “T odo se hace manual.”
+• La gestión administrativa y de 
+pedidos es lenta y poco 
+eficiente.
+• Muchos agricultores no usan 
+apps o sistemas, lo que 
+dificulta la adopción inicial.
+• “Que me conecte con 
+muchos restaurantes 
+serios.”
+• “Que la calidad de los 
+productores esté 
+garantizada y verificada.”
+• El éxito de la solución 
+dependerá de su facilidad 
+de uso, confiabilidad y la 
+garantía de calidad de los 
+productos.
+• Restaurantes están 
+dispuestos a adoptar y 
+pagar si mejora tiempos y 
+consistencia de entregas.
+• “Es muy fundamental 
+destacar el origen local de 
+los insumos.” 
+• “Necesito calidad 
+verificada y constante para 
+estandarizar mi menú.”
+• Especialistas proponen 
+trazabilidad y certificación 
+como atributos clave.
+• Destacar el origen local 
+les ayuda a atraer clientes 
+que valoran consumo 
+responsable.
+• Desconfianza en el sector 
+agrícola por 
+incumplimiento por parte 
+de sus clientes 
+(restaurantes).
+MAPA DE PRIORIZACIÓN DE HALLAZGOS
+(-) 
+Impacto
+(+) 
+Impacto
+(+) 
+Complejidad
+(-) 
+Complejidad
+Desconexión entre 
+oferta y demanda
+*Copie y pegue cuantos cuadros necesite, debe ponerle un nombre al insight, no solo colocar el número.
+Falta de 
+compradores 
+constantes
+Baja digitalización y 
+exceso de 
+procesos manuales
+Alto interés por 
+soluciones digitales
+Variabilidad de 
+precios y falta de 
+transparencia
+Pérdida de 
+productos y 
+mermas
+Calidad y origen 
+local como 
+diferenciador
+Problemas 
+logísticos y de 
+entrega
+Barreras para 
+adoptar tecnología
+MATRIZ DE ANTECEDENTES
+Estudio Comparativo de Antecedentes
+Problemática de venta  
+Abastecimiento Canal / Barrera Dolor principal Necesidad / Oportunidad Observaciones
+Competencia Directa – 
+AgroJusto (Chile)
+AgroJusto. (2025). Mercado. 
+Recuperado de 
+https://cl.agrojusto.com/mercado
+Ofrece plataforma digital que 
+conecta pequeños 
+agricultores con 
+consumidores y restaurantes.
+Canal digital tipo 
+marketplace; barrera principal 
+es adopción tecnológica 
+inicial.
+Dolor de productores: falta 
+de compradores estables y 
+precios bajos.
+Oportunidad de 
+profesionalizar ventas, 
+mejorar precios y formalizar 
+transacciones.
+Startup chilena en 
+crecimiento, modelo similar a 
+lo que plantea AgroLink.
+Competencia Indirecta – Feria 
+Virtual INDAP (Chile)
+Instituto de Desarrollo 
+Agropecuario (INDAP). (2025). 
+Mercados campesinos. Recuperado 
+de 
+https://www.indap.gob.cl/mercados-
+campesinos
+Canal estatal para que 
+pequeños agricultores 
+ofrezcan sus productos.
+Plataforma online gestionada 
+por INDAP , pero con alcance 
+limitado y poca promoción.
+Baja frecuencia de compra 
+por parte de restaurantes, 
+foco más en consumidor 
+final.
+Posibilidad de ampliar 
+mercado si se orienta a B2B 
+(restaurantes).
+Buen precedente de apoyo 
+estatal; valida la necesidad de 
+conexión digital.
+Benchmark Internacional 
+– Local Line (Canadá)
+Local Line. (2025). Farm-to-table 
+software for food producers. 
+Recuperado de 
+https://www.localline.ca
+Plataforma SaaS para 
+agricultores y chefs.
+Herramienta digital con 
+módulos de e-commerce, 
+inventario y logística.
+Productores carecen de 
+herramientas para planificar 
+siembras según demanda.
+Profesionaliza el 
+abastecimiento y reduce 
+pérdidas por 
+sobreproducción.
+Inspiración de funcionalidades 
+premium para AgroLink (p. ej., 
+planificador de siembra).
+Restaurantes y Food Service 
+(Chile)
+Compran en ferias o a 
+distribuidores con procesos 
+manuales y sin trazabilidad.
+Barrera: inconsistencia en 
+calidad, tiempos de entrega y 
+sobrecostos de logística.
+Dolor: pérdida de tiempo en 
+pedidos, baja previsibilidad en 
+precios.
+Necesidad: solución rápida, 
+con calidad verificada y 
+entregas seguras. intuitiva y 
+rápida para integrar a su 
+operación y estandarizar 
+insumos.
+Alta disposición a pagar por 
+un servicio que les ahorre 
+tiempo y estabilice 
+abastecimiento.
+PLANTEAMIENTO FINAL DEL DESAFÍO
+SELECCIÓN DE LA OPORTUNIDAD O DESAFIO A ENFRENTAR
+¿Cuál es la necesidad o carencia a la que se le dará 
+solución?
+¿Por qué es atractivo como potencial oportunidad de 
+negocio?
+Fundamentación:
+Actualmente existe desconexión entre agricultores y 
+restaurantes, lo que genera pérdidas de productos, 
+costos logísticos altos, y falta de estabilidad en precios y 
+demanda. Además, ambos actores usan procesos 
+manuales y carecen de un canal centralizado que asegure 
+compras confiables, planificación eficiente y entregas 
+puntuales.
+Resolver este problema profesionaliza la cadena de 
+suministro local, reduce mermas, mejora la rentabilidad de 
+agricultores y restaurantes, y promueve el consumo de 
+productos frescos y locales. La alta disposición de los 
+usuarios a adoptar una plataforma simple y confiable, junto 
+al interés por soluciones digitales, convierten la iniciativa 
+en una oportunidad viable, escalable y con impacto 
+económico y social positivo.
+DEFINICIÓN DE LA OPORTUNIDAD 
+O DESAFÍO:
+Diseñar e implementar una plataforma digital que conecte agricultores y restaurantes de forma directa y confiable, 
+optimizando compras, precios y logística para reducir pérdidas y fortalecer el consumo local.

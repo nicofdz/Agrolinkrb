@@ -1,0 +1,999 @@
+AgroLink
+Innovación y Emprendimiento 3
+Unidad I1
+Inacap sede Osorno
+Nombre y Rut de los Integrantes
+1. Nicolas Fernández
+2. Diego Sandoval
+3. Benjamin Delgado
+4. Ignacio Agüero 
+5. Arman Almonacid
+6.  Vittorio Soto
+Nombre del 
+proyecto:
+AgroLink
+Re definición del 
+desafío:
+Diseñar e implementar una plataforma 
+digital que conecte agricultores y 
+restaurantes de forma directa y confiable, 
+optimizando compras, precios y logística 
+para reducir pérdidas y fortalecer el 
+consumo local.
+Potenciales beneficiarios 
+(Identificarlos, 
+enumerarlos, ubicación 
+geográfica, entre otros.):
+1. Pequeños y medianos agricultores de hortalizas y frutas 
+de Osorno y Rio Bueno, que actualmente pierden parte de 
+su cosecha por falta de compradores constantes y 
+problemas de logística.
+2. Restaurantes y locales gastronómicos de Osorno y Rio 
+Bueno que actualmente operan con procesos de compra 
+manuales, enfrentan precios variables y calidad 
+inconsistente.
+Breve resumen del 
+proyecto:
+AgroLink es un proyecto que busca 
+digitalizar la conexión entre pequeños 
+productores agrícolas y restaurantes de 
+Osorno y Rio Bueno. El objetivo es 
+solucionar la dependencia de 
+intermediarios, las pérdidas de cosecha y la 
+inestabilidad de precios , creando un canal 
+directo que mejore la rentabilidad, asegure 
+el abastecimiento y reduzca el desperdicio 
+de alimentos.
+(Opcional) Impactos 
+esperados:
+• Reducción del desperdicio de alimentos.
+• Mejora en la rentabilidad y comercio justo para 
+agricultores.
+• Optimización de costos y tiempo para restaurantes.
+• Digitalización de una cadena de suministro 
+actualmente manual.
+• Fortalecimiento de la relación directa entre 
+productores y compradores.
+Indique programa de estudio de los 
+integrantes del grupo: Ingenieria
+Docente a cargo: Cesar Felipe Sandoval Sandoval
+CONTEXTO DE LA INVESTIGACIÓN
+MATRIZ DE REFERENTES
+Estudio Comparativo de Referentes
+Propuesta de Valor Modelo de Negocio Enfoque Principal Mecanismo de 
+Confianza y Calidad
+Gestión de la 
+transacción
+PedidosYa
+Referencia: PedidosYa. 
+(2025). Tu mundo al instante. 
+https://www.pedidosya.cl
+App de delivery todo en uno 
+(Restaurantes, Súper, 
+Farmacias, etc.) para el 
+consumidor final (B2C).
+Comisión por venta (un 
+alto porcentaje al 
+restaurante) y un costo de 
+envío al usuario final.
+Logística de última milla y 
+una experiencia de usuario 
+muy simple y adictiva.
+La confianza se basa en el 
+seguimiento logístico y en las 
+calificaciones públicas del 
+restaurante. La calidad del 
+producto, sin embargo, es 
+responsabilidad del 
+restaurante, no de la app.
+Transacción interna, el 
+pago se procesa dentro de 
+la app.
+Facebook Marketplace
+Referencia: Meta. (2025). 
+Marketplace. 
+https://www.facebook.com/
+marketplace
+Conexión local C2C 
+(persona a persona) para 
+comprar y vender 
+productos, de forma simple, 
+visual y gratuita.
+Gratuito, La transacción se 
+cierra por chat privado 
+(Messenger o WhatsApp).
+Es un tablón de anuncios 
+digital (C2C) que elimina 
+todas las barreras. Su 
+fortaleza es la facilidad para 
+publicar y la gestión directa 
+por chat.
+Confianza media, se basa 
+en la transparencia del 
+perfil y la comunicación 
+directa por chat, la calidad 
+se verifica en persona.
+Transacción externa, el 
+pago se acuerda con el 
+cliente a través de chat 
+(efectivo o transferencia), 
+no existe intervención de 
+la app.
+Cornershop 
+Referencia: Cornershop by 
+Uber. (2025). Tu 
+supermercado a domicilio. 
+https://cornershopapp.com
+Externalización de la tarea 
+manual de "ir a comprar". 
+Ahorro de tiempo para el 
+cliente (B2C).
+Comisión a la tienda + 
+Tarifa de servicio y envío 
+al cliente final.
+Una persona que verifica la 
+calidad de los productos 
+frescos por ti (elige el mejor 
+tomate) y chatea en tiempo 
+real para reemplazos.
+Confianza alta, el shopper 
+actúa como un filtro de 
+calidad en nombre del 
+cliente y chatea en tiempo 
+real para reemplazos.
+Transacción interna, el 
+pago se procesa dentro de 
+la app.
+Airbnb
+Referencia: Airbnb. (2025). 
+Alojamientos, experiencias y 
+lugares. https://www.airbnb.cl
+Plataforma (C2C) que 
+permite a personas arrendar 
+sus espacios a viajeros, 
+ofreciendo una alternativa a 
+los hoteles.
+Comisión a ambas partes: un 
+pequeño % al anfitrión y un 
+% mayor al huésped.
+Es su sistema de verificación 
+de perfiles y reseñas de dos 
+vías (el huésped califica al 
+anfitrión y el anfitrión califica 
+al huésped), lo que permite a 
+completos extraños confiar 
+entre sí para una transacción 
+de alto valor.
+Confianza alta, se basa en 
+un sistema de reputación 
+bidireccional y la 
+verificacion de perfiles.
+Transacción interna y 
+segura, la app cobra al 
+huésped y retiene el pago 
+hasta después del check-in 
+para proteger ambas 
+partes.
+PERFIL DEL USUARIO AGRICULTOR
+¿Qué PIENSA Y SIENTE nuestro cliente?
+¿Cuáles son sus necesidades, preocupaciones y expectativas?
+1. Necesita una plataforma que sea muy fácil de usar.
+2. Quiere pagos rápidos y seguros.
+3. Se preocupa por la perdida de gran porcentaje de su producción.
+4. Se siente frustrado por la desconfianza; teme que los restaurantes no cumplan con los pedidos.
+5. Busca confianza en el cumplimiento de los clientes.
+¿Qué ESCUCHA?
+¿Qué dice su entorno, amigos, colaboradores, círculo 
+de influencia?
+¿QUIÉN ES MI CLIENTE?
+Breve descripción del cliente potencial al cual 
+nos dirigimos
+¿Qué VE?
+¿Cómo es su entorno, sus amigos? ¿Cuál es la oferta que le ofrece el 
+mercado?
+1. Que es difícil encontrar compradores constantes y serios.
+2. Muchas veces, su familia, le dice que no le va a ir bien con el 
+negocio si sigue así.
+3. Que los precios que pagan los intermediarios son bajos y 
+variables.
+4. Que hay desconfianza general en las herramientas digitales.
+Pequeños agricultores de Osorno y Rio Bueno, de los cuales 
+su principal producción son hortalizas y productos de gallinas 
+libres.
+1. Que su venta depende de contactos informales.
+2. Ve que pierde parte de su cosecha (desperdicio) por no venderla a 
+tiempo.
+3. Ve que la logística es ineficiente (traslado en autos propios, 
+tiempos poco eficientes).
+4. Ve que los procesos actuales son manuales (solo llamadas por 
+celular).
+¿Qué DICE y HACE?
+¿Cuál es su actitud y conducta?
+1. Trabaja su propia parcela.
+2. Vende menos del 70% de su producción.
+3. Usa métodos informales para encontrar compradores.
+4. No confía mucho en la tecnología.
+5. Le cuesta llevar control sobre su producción, muchas veces cosecha mas de lo que vende.
+6. Cita: "Si pudiera vender toda mi producción a tiempo y a buen precio, podría planificar mejor mis siembras y crecer mi negocio.“
+¿QUÉ LE DUELE?
+¿A qué desafíos, frustraciones y obstáculos se enfrenta?
+¿A QUÉ ASPIRA?
+¿Cuáles son sus objetivos y cómo mide el éxito en la consecución de éstos?
+1. Desperdicio de cosecha por no vender a tiempo.
+2. Precios bajos y variables que afectan su rentabilidad.
+3. Falta de compradores constantes.
+4. Problemas logísticos y tiempos de entrega poco eficientes.
+5. Desconfianza en las plataformas (temor a incumplimiento de pedidos)
+1. Aumentar sus ingresos vendiendo más del 70% de su producción.
+2. Reducir pérdidas y optimizar el transporte.
+3. Establecer relaciones de largo plazo con clientes recurrentes.
+4. Profesionalizar su gestión sin perder tiempo en procesos administrativos.
+PERFIL DEL USUARIO RESTAURANTES
+¿Qué PIENSA Y SIENTE nuestro cliente?
+¿Cuáles son sus necesidades, preocupaciones y expectativas?
+1. Necesita mejores precios y productos de mayor calidad para su cocina.
+2. Piensa que el conectar su negocio con agricultores de la zona es una buena idea.
+3. Quiere una plataforma simple y transparente.
+4. La calidad consistente y la puntualidad son puntos críticos para el.
+¿Qué ESCUCHA?
+¿Qué dice su entorno, amigos, colaboradores, círculo 
+de influencia?
+¿QUIÉN ES MI CLIENTE?
+Breve descripción del cliente potencial al cual 
+nos dirigimos
+¿Qué VE?
+¿Cómo es su entorno, sus amigos? ¿Cuál es la oferta que le ofrece el 
+mercado?
+1. Ha recibido quejas de parte de los clientes sobre la calidad de 
+su producto.
+2. El encargado de ir a la frutería muchas veces le dice que la 
+verdura estaba fea y cara.
+3. Ha escuchado que el consumo local y sostenible es algo que los 
+clientes valoran.
+Dueños de restaurantes en Osorno y rio bueno que se 
+dediquen a la venta de platos preparados con productos 
+frescos y de calidad.
+1. Ve que los precios de las fruterías suben y bajan.
+2. Ve que la calidad de los productos no siempre es la mas optima.
+3. Ve que las compras se hacen de manera improvisada cuando el 
+stock esta bajo.
+4. Ve que su propio personal de cocina a veces debe salir a comprar 
+los productos.
+5. Ve que la oferta actual es informal y sin garantías.
+¿Qué DICE y HACE?
+¿Cuál es su actitud y conducta?
+1. Gestiona su restaurante.
+2. Actualmente su personal de trabajo compra los productos en ferias y fruterías locales.
+3. Las compras se hacen a medida que el stock esta bajo.
+4. No hay garantía sobre la calidad del producto.
+¿QUÉ LE DUELE?
+¿A qué desafíos, frustraciones y obstáculos se enfrenta?
+¿A QUÉ ASPIRA?
+¿Cuáles son sus objetivos y cómo mide el éxito en la consecución de éstos?
+1. Precios inestables.
+2. Calidad inestable.
+3. Pierde tiempo y tiene costos adicionales comprando en ferias y buscando mejores 
+productos en las fruterías locales.
+1. Asegurar que su restaurante cuente con productos frescos y de calidad.
+2. Ahorrar tiempo en la gestión de stock.
+3. Evitar la improvisación en el transporte.
+CLASIFICACIÓN Y ANÁLISIS DE NECESIDADES Y 
+REQUERIMIENTOS DE LOS USUARIOS
+Insight 1:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+La calidad de los productos es 
+inconsistente y genera una gran 
+desconfianza en los restaurantes.
+Sistema de verificación y calificación de 
+productores para asegurar un estándar de 
+calidad confiable.
+Insight 2:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+La gestión manual de pedidos 
+(llamadas, WhatsApp) es ineficiente, 
+desordenada y consume tiempo 
+valioso.
+Plataforma centralizada para gestionar 
+pedidos de forma digital (comprar, 
+confirmar y seguir el estado en un solo 
+lugar).
+Insight 3:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+Los agricultores pierden parte de 
+sus cosechas al no tener acceso a 
+un canal de venta estable y 
+constante.
+Conectar la oferta de agricultores locales 
+con la demanda recurrente de los 
+restaurantes.
+Insight 4:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+La logística de entrega es un punto 
+crítico de fallo, con problemas de 
+puntualidad que afectan la 
+operación de los restaurantes.
+Sistema de logística integrado con 
+seguimiento en tiempo real para garantizar 
+entregas fiables y puntuales.
+Insight 5:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+La variabilidad y falta de 
+transparencia en los precios dificulta 
+la planificación de costos para los 
+restaurantes.
+Publicación de precios claros y 
+transparentes en la plataforma, reduciendo 
+la necesidad de negociaciones constantes.
+Insight 6:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+Existe una barrera tecnológica; 
+usuarios como los agricultores 
+necesitan herramientas 
+extremadamente fáciles de usar.
+Diseño de interfaz intuitivo y simple que 
+requiera mínima capacitación y funcione 
+bien en celulares.
+Insight 7:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+Los restaurantes buscan 
+diferenciarse con productos locales 
+y únicos, pero les resulta difícil 
+encontrarlos.
+Función para destacar y buscar productos 
+especiales, de temporada o de origen único 
+dentro de la plataforma.
+Insight 8:
+Requerimientos:
+¿Qué debemos cumplir para solucionar el 
+insight?
+Ambos lados temen el 
+incumplimiento: agricultores al no 
+pago y restaurantes a pedidos 
+incompletos.
+Sistema de pago seguro y automatizado, 
+con políticas de compromiso y cancelación 
+claras para generar confianza mutua.
+CLASIFICACIÓN Y AGRUPACIÓN DE REQUERIMIENTOS 
+Categoría 1:
+
+Necesidad(es)
+Confianza y Calidad
+• Crear un sello de calidad AgroLink para productores que pasen una verificación inicial.
+• Implementar un sistema de calificación y reseñas de doble vía (restaurante califica al agricultor y 
+viceversa).
+• Perfiles de agricultores con videos e historias para humanizar la conexión.
+• Sistema de pagos automatizados con liberación de fondos tras la confirmación de entrega.
+• Política de reembolso o crédito por productos que no cumplan con el estándar prometido.
+Categoría 2:
+
+Necesidad(es)
+Eficiencia y Gestión
+Ahorrar tiempo y simplificar la administración. 
+• Función de pedidos programados para que los restaurantes automaticen sus compras semanales.
+• Panel de control para restaurantes con analíticas de gastos por producto o proveedor
+• Plantillas de pedidos frecuentes para recomprar con un solo clic. 
+• Notificaciones automáticas sobre el estado de los pedidos.
+• Un chat integrado en la app para comunicación directa y rápida.
+Categoría 3:
+
+Necesidad(es)
+Acceso y Oportunidad de Mercado
+Conectar oferta y demanda de manera estable. 
+•  Sección joyas de temporada para destacar productos únicos o de cosecha limitada. 
+•  Alertas de cosecha fresca para que los restaurantes sepan cuándo un producto está en su mejor momento. 
+• Mapa interactivo para visualizar la ubicación de los agricultores y la procedencia de los alimentos. 
+•  Canastas colaborativas que agrupen productos de varios agricultores en una sola compra. 
+• Programa de referidos que ofrezca descuentos a quienes traigan nuevos usuarios (restaurantes o agricultores).
+Categoría 4:
+
+Necesidad(es)
+Logística y Operaciones
+Garantizar entregas fiables y puntuales. 
+•  Rutas de entrega optimizadas que agrupen varios pedidos por zona para reducir costos.
+•   Seguimiento del repartidor en tiempo real en un mapa (estilo Uber Eats).
+•  Establecer agro-puntos locales donde los agricultores puedan dejar su mercancía para la recolección 
+centralizada. 
+•  Ofrecer empaquetado sostenible y retornable como un servicio adicional.
+JERARQUIZACIÓN  DE LAS CATEGORÍAS  
+(-) 
+(Alta)
+Relevancia 
+para la 
+decision
+(Alta) 
+Frecuencia 
+de 
+interacción
+Y
+X
+Factores de 
+Confianza
+Núcleo de la 
+operación
+Mejoras de 
+Experiencia
+Funciones de 
+Descubrimiento
+Categoría: 
+Confianza y 
+Calidad
+Categoría: 
+Eficiencia y 
+Gestión 
+Categoría: 
+Logística y 
+Operaciones
+Categoría: Acceso 
+y Oportunidad de 
+Mercado
+BRAINSTORMING
+Crear perfiles 
+de agricultores 
+con 
+fotos/videos de 
+sus parcelas.
+Sistema de 
+calificación de 
+doble vía: el 
+restaurante 
+califica al 
+agricultor y 
+viceversa.
+Un "Sello de 
+Calidad 
+AgroLink" para 
+productores 
+verificados.
+Pagos seguros 
+a través de la 
+app que se 
+liberan al 
+confirmar la 
+entrega.
+Política clara 
+de 
+devoluciones si 
+el producto no 
+cumple con lo 
+prometido.
+Mostrar 
+historias de los 
+agricultores 
+para humanizar 
+la conexión.
+Chat directo 
+con el 
+agricultor 
+dentro de la 
+app para 
+resolver dudas.
+Notificaciones 
+por WhatsApp 
+sobre el estado 
+del pedido 
+(confirmado, en 
+camino, 
+entregado).
+Función de 
+"compra 
+rápida" para 
+pedidos 
+frecuentes.
+Pedidos 
+programados 
+para 
+automatizar las 
+compras 
+semanales.
+Un panel simple 
+para ver el 
+historial de 
+gastos por 
+proveedor.
+Catálogo de 
+productos 
+digital con 
+precios 
+transparentes.
+Sección de 
+"Ofertas del 
+día" para 
+productos con 
+sobre-stock.
+Alertas de "Cosecha 
+Fresca" para 
+notificar a 
+restaurantes sobre 
+productos de 
+temporada.
+Mapa interactivo 
+para que los 
+restaurantes vean 
+de dónde vienen 
+sus alimentos.
+Crear "canastas 
+colaborativas" 
+con productos 
+de varios 
+agricultores.
+Programa de 
+referidos que dé 
+descuentos por 
+traer a otros 
+restaurantes o 
+agricultores.
+Rutas de 
+entrega 
+optimizadas 
+para agrupar 
+pedidos por 
+zona.
+Seguimiento del 
+repartidor en 
+un mapa en 
+tiempo real, 
+tipo Uber Eats.
+Establecer "Agro-
+Puntos" en Osorno y 
+Río Bueno para que 
+los agricultores dejen 
+su mercancía y se 
+centralice la 
+recolección.
+Ofrecer 
+empaques 
+retornables 
+para ser más 
+sostenibles.
+Notificacione
+s automáticas 
+sobre la hora 
+estimada de 
+entrega.
+Integrar la 
+plataforma con 
+software de 
+inventario de 
+los 
+restaurantes.
+Usar IA para 
+predecir la 
+demanda de los 
+restaurantes y 
+sugerir siembras a 
+los agricultores.
+Crear un 
+evento anual 
+"AgroLink 
+Fest" para 
+conectar en 
+persona a 
+agricultores y 
+chefs.
+Un sistema de 
+suscripción para 
+restaurantes 
+que asegure un 
+precio fijo en 
+ciertos 
+productos.
+Gamificación: 
+que los 
+agricultores 
+ganen medallas 
+por buenas 
+calificaciones y 
+entregas a 
+tiempo.
+DESAFÍO 
+¿Cómo podemos crear una plataforma 
+digital que genere la confianza y 
+eficiencia necesarias para que 
+agricultores de la región vendan sus 
+cosechas directamente a restaurantes 
+locales, reduciendo el desperdicio y 
+simplificando las compras?
+Blog con recetas 
+de chefs: Invitar a 
+los chefs de los 
+restaurantes a 
+compartir recetas 
+usando productos 
+de la plataforma.
+"Agricultor de 
+la semana": 
+Destacar en la 
+app y redes 
+sociales la 
+historia de un 
+productor local.
+Alianzas con 
+escuelas de 
+gastronomía: 
+Ofrecer la 
+plataforma como 
+proveedora oficial 
+para sus clases.
+Foro para usuarios: 
+Un espacio dentro 
+de la app para que 
+agricultores y chefs 
+compartan consejos 
+y tendencias.
+Evento de lanzamiento 
+local: Organizar un 
+evento en Osorno o 
+Río Bueno con 
+degustaciones para dar 
+a conocer la app.
+Programa de 
+embajadores: Chefs 
+locales influyentes 
+que promuevan el 
+uso de AgroLink.
+Kit de marketing para 
+restaurantes: Ofrecer 
+a los locales un sticker 
+de "Apoyamos al agro 
+local" para que pongan 
+en sus puertas.
+Calculadora de 
+impacto: Mostrar a los 
+restaurantes cuántos 
+"kilómetros de 
+comida" han ahorrado 
+al comprar local.
+Filtro de productos 
+orgánicos: Permitir 
+buscar específicamente 
+por agricultores con 
+certificación orgánica o 
+prácticas 
+agroecológicas.
+Insignias de 
+sostenibilidad: 
+Reconocer en el perfil 
+a los agricultores que 
+usan riego eficiente, 
+compostaje, etc.
+Reporte de impacto 
+social: Enviar un 
+resumen mensual a los 
+restaurantes: "Este 
+mes tu compra ayudó 
+a X familias 
+agricultoras".
+Donación de 
+excedentes: 
+Facilitar la conexión 
+con fundaciones 
+locales para donar 
+alimentos que no se 
+vendieron.
+Perfil hídrico: 
+Información 
+sobre el uso y 
+cuidado del agua 
+por parte del 
+agricultor.
+Suscripción Premium 
+para restaurantes: Un 
+pago mensual a cambio 
+de beneficios como 
+cero costo de envío o 
+acceso a ofertas 
+exclusivas.
+Comisión por 
+logística: Cobrar un 
+pequeño porcentaje 
+adicional si se utiliza 
+el sistema de 
+reparto de 
+AgroLink.
+Productos 
+destacados: Permitir 
+que los agricultores 
+paguen una pequeña 
+suma para que sus 
+cosechas aparezcan 
+primero.
+Venta de datos 
+anónimos: Ofrecer 
+reportes de tendencias 
+(ej. "la lechuga fue el 
+producto más 
+demandado en 
+primavera") a 
+entidades del agro.
+Servicios de 
+empaquetado: 
+Vender empaques 
+ecológicos y 
+personalizados a los 
+agricultores a través 
+de la misma app.
+Tarifa de servicio 
+por transacción: Un 
+pequeño porcentaje 
+sobre el total de la 
+venta, transparente 
+para ambas partes.
+Centro de 
+ayuda con 
+tutoriales en 
+video.
+Diseño de 
+interfaz intuitivo 
+y simple 
+(UX/UI).
+Notificacione
+s claras 
+dentro de la 
+app.
+Un proceso de 
+registro que se 
+complete en 
+menos de 10 
+minutos.
+Integrar la 
+plataforma con 
+software de 
+inventario de los 
+restaurantes.
+Usar IA para 
+predecir la 
+demanda.
+Desarrollar una app 
+que funcione bien 
+en celulares con 
+poca señal.
+Asegurar que la 
+plataforma sea 
+escalable para 
+agregar más 
+ciudades en el 
+futuro.
+Para generar 
+Confianza y 
+Calidad
+Para la 
+Eficiencia y 
+Gestión
+Para el Acceso y 
+Oportunidad de 
+Mercado (Agricultores)
+Para la 
+Logística y 
+operaciones
+Ideas 
+Adicionales 
+Para el Crecimiento y 
+Comunidad
+Para la 
+sostenibilida
+d e Impacto
+Para el Modelo de 
+Negocio
+Experiencia de Usuario 
+y Diseño
+T ecnología y Desarrollo
+Catálogo 
+de 
+productos 
+digital
+MAPA DE CLASIFICACIÓN DE IDEAS
+(-) 
+Factible
+(+) Factible
+(+) 
+Original
+(-) 
+Original
+Sistema de 
+calificación 
+de doble 
+vía
+Perfiles de 
+agricultores 
+con fotos
+Diseño de 
+interfaz 
+intuitivo
+Gamificación 
+con medallas 
+para 
+agricultores
+Crear 
+"Canastas 
+colaborativas"
+Alertas de 
+"Cosecha 
+Fresca"
+Usar IA 
+para 
+predecir la 
+demanda
+Crear un 
+evento anual 
+"AgroLink 
+Fest"
+Sistema de 
+suscripción 
+con precio 
+fijo
+Establece
+r "Agro-
+Puntos" 
+físicos
+Integrar con 
+el software 
+de 
+inventario
+Función de 
+"compra 
+rápida"
+Chat 
+directo 
+dentro de 
+la app
+Centro de 
+ayuda con 
+tutoriales 
+en video
+Sección de 
+"Ofertas del 
+día" por 
+sobre-stock
+Donación de 
+excedentes
+Reporte de 
+impacto 
+social
+Ofrecer 
+empaques 
+retornables
+Perfil hídrico 
+del agricultor
+Rutas de 
+entrega 
+optimizadas
+Asegurar que 
+la plataforma 
+sea escalable
+Política 
+clara de 
+devolucion
+es
+Un panel 
+simple para 
+ver el historial 
+de gastos
+Programa de 
+referidos que 
+dé 
+descuentos
+Un proceso de 
+registro que se 
+complete en menos 
+de 10 minutos
+Un "Sello de 
+Calidad AgroLink" 
+para productores 
+verificados
+Mapa interactivo para ver 
+de dónde vienen los 
+alimentos
+Desarrollar una app 
+que funcione bien en 
+celulares con poca 
+señal
+Foro para usuarios 
+dentro de la app
+Kit de marketing 
+para restaurantes
+PROPUESTA DE VALOR
+NECESIDADES: ATRIBUTOS DEL PROYECTO
+Para los Agricultores:
+• Vender un mayor porcentaje de su producción para reducir las pérdidas 
+(actualmente pierden entre 30% y 50%).
+• Acceder a compradores constantes y serios para tener un canal de venta 
+estable.
+• Obtener precios justos y estables que mejoren su rentabilidad.
+• Contar con un sistema de pagos y pedidos que sea confiable y seguro.
+• Optimizar la logística de entrega para que sea más eficiente.
+Para los Restaurantes:
+• Asegurar un abastecimiento de productos frescos con calidad consistente y 
+garantizada.
+• T ener precios transparentes y estables para planificar mejor sus costos.
+• Ahorrar tiempo y reducir costos en la gestión de compras y búsqueda de 
+proveedores.
+• Recibir los pedidos de forma puntual y fiable para no afectar la operación de 
+la cocina.
+• Encontrar productos locales y de temporada para diferenciar su oferta 
+gastronómica.
+Para responder a las necesidades,  AgroLink ofrece las siguientes 
+características:
+• Marketplace Digital Centralizado: Conecta directamente la oferta de 
+múltiples agricultores con la demanda de los restaurantes.
+• Sistema de Confianza y Calidad: Incluye un "Sello de calidad AgroLink" , 
+perfiles verificados y un sistema de calificación de doble vía para generar 
+seguridad.
+• Gestión Eficiente de Pedidos: Ofrece herramientas como "Pedidos 
+programados" y plantillas de "Pedidos frecuentes" para automatizar y 
+agilizar las compras.
+• Precios Transparentes: Muestra un catálogo digital donde los precios son 
+claros, eliminando la necesidad de negociaciones constantes.
+• Acceso a Productos Únicos: A través de secciones como "Joyas de 
+temporada" los restaurantes pueden descubrir y comprar productos 
+diferenciados.
+PROPUESTA DE VALOR
+Para agricultores locales, AgroLink es el canal de venta directo que garantiza comercio justo y reduce el desperdicio de sus cosechas. Para restaurantes, somos la 
+plataforma que asegura un abastecimiento confiable de productos frescos de calidad, optimizando tiempo y costos.
+MÉTRICAS CLAVE
+Métricas de Adopción: Número de agricultores activos registrados y número de restaurantes activos registrados. 
+Métricas de Transacción: Cantidad de pedidos completados por semana/mes y valor total de las transacciones.
+Métricas de Retención y Satisfacción: T asa de recompra de los restaurantes (porcentaje que vuelve a comprar) y Calificación promedio de los productos y la 
+logística.
+Métricas de Impacto: Porcentaje de reducción de mermas reportado por los agricultores.
+PANEL DE METÁFORAS Y ATRIBUTOS
+AgroLink es el puente que une 
+directamente el campo con la 
+mesa, eliminando obstáculos y 
+distancias. Es verde por lo natural, 
+lo fresco y lo sostenible.
+Confiabilidad: Garantizamos transacciones seguras, pagos 
+puntuales para agricultores y entregas fiables con calidad 
+verificada para restaurantes. Nuestro sello de calidad AgroLink y 
+el sistema de calificaciones bidireccionales construyen una 
+comunidad de confianza.
+Eficiencia: Simplificamos drásticamente el proceso de compra-
+venta, ahorrando tiempo y reduciendo el desperdicio para ambos 
+usuarios. La logística está optimizada para maximizar la frescura y 
+la rapidez
+Sostenibilidad local:  Fortalecemos la economía regional 
+promoviendo el consumo de productos frescos y locales, y 
+asegurando precios justos para los pequeños agricultores. 
+Contribuimos a reducir la huella de carbono y el desperdicio de 
+alimentos
+
+ELIMINAR REDUCIR AUMENTAR CREARALTO
+BAJO
+NIVEL DE OFERTA
+precios
+Gestion 
+manual de 
+pedidos
+Incertidumbre
+de calidad
+Compras
+presenciales
+AgroLink
+Tiempos de 
+gestion
+MERMA
+Incosistenci
+a de calidad
+Variabilidad de 
+precios
+Confianza
+Transparen
+cia
+Eficiencia
+Sello de calidad
+Calificaciones
+Pagina web 
+intuitiva
